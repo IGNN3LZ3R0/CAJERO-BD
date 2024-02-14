@@ -1,0 +1,1 @@
+ID	Usuario	Tipo de transacción	Monto	Fecha y hora
